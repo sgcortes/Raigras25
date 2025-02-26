@@ -1,5 +1,6 @@
 # Raigras25
 Raigrass yield prediction in kg MS/ha using 3 locations (NW Spain), 5 cultivars, and metereological data (Tmax(ºC), Tmin(ºC), Precipitation(mm), Radiation())
++ Base model Gradient Boost Regressor (Kfold=5). 
 + Original data. https://github.com/sgcortes/Raigras25/blob/94a68811733fd7458501676892170c30e4178216/DatosmodeloRaigrasfinalv10-yield.xlsx
 + Gradient Boost Regressor training code. Kfold=5, Labelencoder,Hyperparameters tuning (Optuna). https://github.com/sgcortes/Raigras25/blob/68f0e8f941d38a9aef9d3c4fe7a763595d04245d/Optuna_250225_GBR_NO_AGUA_NO_ALTITUD_HIPERPRAMETROS.ipynb
 + Sensitivity analysis of Raigrass yield under predcitor variable change for each location and cultivar. https://github.com/sgcortes/Raigras25/blob/503cbb56407c74691a214112d546d9dd2abd13c9/250225_SENSIBILIDAD_EXCEL_FIGURAS.ipynb
