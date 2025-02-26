@@ -1,4 +1,4 @@
-# Rygrass25
+# Ryegrass_2025
 
 Raigrass yield prediction in kg MS/ha using 3 locations (NW Spain), 5 cultivars, and metereological data (Tmax(ºC), Tmin(ºC), Precipitation(mm), Radiation())
 + Original data. https://github.com/sgcortes/Raigras25/blob/94a68811733fd7458501676892170c30e4178216/DatosmodeloRaigrasfinalv10-yield.xlsx
